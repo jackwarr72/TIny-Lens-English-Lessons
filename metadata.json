@@ -1,0 +1,7 @@
+{
+  "name": "Tiny Lens Lesson",
+  "description": "Point your camera at anything to generate a bite-sized, engaging lesson about it. Combines the ideas of Word Cam and Tiny Lesson.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
